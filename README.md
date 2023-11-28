@@ -8,7 +8,7 @@ Machine Learing is a field of study that enables the system to learn from experi
 i) enable machine that can learn from data, make prediction and solve tasking without explicit programming.
 ii)enhancing automation and decision making across various domains through pattern recognition and data-driven model.
 
-## why Machine learning getting so mush attention recently:
+## Why Machine learning getting so mush attention recently:
 
 1. The amount of data generation is increasing significantly and reduce the cost of sensors.  
 1. The cost of storing this data has reduced significantly.  
