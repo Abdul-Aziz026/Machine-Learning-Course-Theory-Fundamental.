@@ -30,5 +30,6 @@ These success stories demonstrate the real-world applications and potential of m
 ## Lecture 2-3
 Supervised Learning is 2 types:
 1. Regression: Real/Continious value predition Model. example: House price prediction.
-1. Classification: Predict the class of the model. example: apple, banana class prediction.
+1. Classification: Predict the class of the model. example: apple and banana class prediction, Language detection etc.
+
 
