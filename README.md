@@ -22,3 +22,4 @@ ii)enhancing automation and decision making across various domains through patte
 
 These success stories demonstrate the real-world applications and potential of machine learning, driving further interest and investment in the field.  
 
+## Workflow/Steps of Machine Learning:
