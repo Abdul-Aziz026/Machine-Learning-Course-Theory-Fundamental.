@@ -27,4 +27,6 @@ These success stories demonstrate the real-world applications and potential of m
 
 
 
-# Lecture 2-3
+## Lecture 2-3
+
+thanks for reading all of the section carefully.
