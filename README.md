@@ -23,3 +23,5 @@ ii)enhancing automation and decision making across various domains through patte
 These success stories demonstrate the real-world applications and potential of machine learning, driving further interest and investment in the field.  
 
 ## Workflow/Steps of Machine Learning:
+![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/51ce4ceb-db61-4768-ae12-af87898c3307)
+
