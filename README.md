@@ -32,4 +32,3 @@ Supervised Learning is 2 types:
 1. Regression: Real/Continious value predition Model. example: House price prediction.
 1. Classification: Predict the class of the model. example: apple, banana class prediction.
 
-thanks for reading all of the section carefully.
