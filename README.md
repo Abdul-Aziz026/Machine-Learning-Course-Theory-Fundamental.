@@ -10,9 +10,9 @@ ii)enhancing automation and decision making across various domains through patte
 
 ## why Machine learning getting so mush attention recently:
 
-i) The amount of data generation is increasing significantly and reduce the cost of sensors.
-ii) The cost of storing this data has reduced significantly.
-iii) The cost of computing has come down significantly.
-iv) Cloud has democratized compute for the masses.
-v) Notable successes in areas like image and speech recognition, natural language processing, recommendation systems, and self-driving cars have captured public attention. These success stories demonstrate the real-world applications and potential of machine learning, driving further interest and investment in the field.
+i)The amount of data generation is increasing significantly and reduce the cost of sensors.
+ii)The cost of storing this data has reduced significantly.
+iii)The cost of computing has come down significantly.
+iv)Cloud has democratized compute for the masses.
+v)Notable successes in areas like image and speech recognition, natural language processing, recommendation systems, and self-driving cars have captured public attention. These success stories demonstrate the real-world applications and potential of machine learning, driving further interest and investment in the field.
 
