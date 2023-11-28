@@ -25,3 +25,6 @@ These success stories demonstrate the real-world applications and potential of m
 ## Workflow/Steps of Machine Learning:
 ![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/51ce4ceb-db61-4768-ae12-af87898c3307)
 
+
+
+# Lecture 2-3
