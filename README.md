@@ -139,7 +139,7 @@ lead to impact.
 
 ![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/3f0da3e8-5792-466e-8f37-87fcc5a37721)
 
-
+![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/4fb8c8f1-30d5-4a2d-a0eb-3f9453b0e665)
 
 
 
