@@ -58,5 +58,5 @@ Regression in supervised machine learning is a statistical method used for model
 
 <ins>Risk Assessment:</ins> In fields like finance and insurance, regression can be used to assess risks by predicting potential losses or gains based on various factors.  
 
-<ins>Optimization:</ins> Regression models can also be utilized in optimization problems, where the goal is to find the best possible outcome.  
+<u>Optimization:</u> Regression models can also be utilized in optimization problems, where the goal is to find the best possible outcome.  
 
