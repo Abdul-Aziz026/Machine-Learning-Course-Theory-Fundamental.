@@ -37,4 +37,13 @@ Supervised Learning is also called Predictive Modeling. Supervised Learning is 2
 ## classification:
 1. Binary Classification: Classifying instances into one of two classes/categories, for example, email spam filtering (spam or not).  
 1. Multiclass Classification: Classifying instances into one of three or more classes/categories, for example, color of an object, it may be red or green or blue.  
-1. Multi-Label Classification: Multiple labels/classes are to be predicted for each instance, for example, when predicting a given movie category, it may belong to horror, romance, adventure, action, or all simultaneously.  
+1. Multi-Label Classification: Multiple labels/classes are to be predicted for each instance, for example, when predicting a given movie category, it may belong to horror, romance, adventure, action, or all simultaneously.
+
+## Some Classification Problems
+1. Spam filtering
+2. Language detection
+3. Document/text classification
+4. Sentiment analysis of text (positive, negative, or neutral)
+5. Recognition of handwritten characters and numbers
+6. Fraud detection
+7. Disease prediction and detection etc.
