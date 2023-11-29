@@ -117,5 +117,6 @@ wrong action.
 performance.
 
 
+![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/264fc58f-b981-4cc5-810a-8cbc8de0840c)
 
 
