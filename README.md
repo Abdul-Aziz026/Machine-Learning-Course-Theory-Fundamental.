@@ -52,7 +52,7 @@ Supervised Learning is also called Predictive Modeling. Supervised Learning is 2
 Regression in supervised machine learning is a statistical method used for modeling the relationship between a dependent variable (target) and one or more independent variables (predictors). Its primary goal is to predict the value of the dependent variable based on the values of the independent variables.
 
 ### When to use regression:
-Prediction: Regression is used when you want to predict a continuous output variable. For instance, predicting house prices based on features like size, location, and number of bedrooms.  
+<ins> Prediction:</ins> Regression is used when you want to predict a continuous output variable. For instance, predicting house prices based on features like size, location, and number of bedrooms.  
 
 Relationship Analysis: It helps in understanding the strength and direction of the relationship between variables. For instance, analyzing how changes in advertising expenditure impact sales.  
 
