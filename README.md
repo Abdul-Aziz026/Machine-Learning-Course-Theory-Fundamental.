@@ -54,11 +54,9 @@ Regression in supervised machine learning is a statistical method used for model
 ### When to use regression:
 <ins> Prediction:</ins> Regression is used when you want to predict a continuous output variable. For instance, predicting house prices based on features like size, location, and number of bedrooms.  
 
-Relationship Analysis: It helps in understanding the strength and direction of the relationship between variables. For instance, analyzing how changes in advertising expenditure impact sales.  
+<ins>Forecasting:</ins> Regression is valuable in forecasting future trends or outcomes based on historical data patterns.  
 
-Forecasting: Regression is valuable in forecasting future trends or outcomes based on historical data patterns.  
+<ins>Risk Assessment:</ins> In fields like finance and insurance, regression can be used to assess risks by predicting potential losses or gains based on various factors.  
 
-Risk Assessment: In fields like finance and insurance, regression can be used to assess risks by predicting potential losses or gains based on various factors.  
-
-Optimization: Regression models can also be utilized in optimization problems, where the goal is to find the best possible outcome.  
+<ins>Optimization:</ins> Regression models can also be utilized in optimization problems, where the goal is to find the best possible outcome.  
 
