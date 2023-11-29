@@ -80,3 +80,9 @@ The primary goal of unsupervised learning is to explore and identify hidden patt
 
 ## Unsupervised Machine Learning Types:
 
+1. <ins>Clustering</ins>:
+2. <ins>Association Rule Mining</ins>:
+
+
+
+
