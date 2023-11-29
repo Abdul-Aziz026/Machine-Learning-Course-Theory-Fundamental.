@@ -83,10 +83,11 @@ The primary goal of unsupervised learning is to explore and identify hidden patt
 1. <ins>Clustering</ins>: Clustering is an unsupervised learning technique that groups similar data points together based on their shared characteristics or features, without predefined labels.
 ![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/0ffaba55-8ba2-4f54-b8b4-c28f993a4544)
 ### application of clustering:
-        - abc  
-        - def  
-        - fbg  
-        - etc  
+        - Customer Segmentation in Marketing  
+        - Image Segmentation in Computer Vision  
+        - Anomaly Detection: Identifying outliers or anomalies in datasets, such as detecting fraudulent activities in finance.  
+        - Social Network Analysis  
+        - Traffic Flow Analysis  
 3. <ins>Association Rule Mining</ins>:
 
 
