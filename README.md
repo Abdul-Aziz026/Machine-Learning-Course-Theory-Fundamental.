@@ -122,6 +122,13 @@ performance.
 ![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/df1d5b05-9cdb-4a36-9052-f7c04e459e50)
 
 
+## Machine Learning Lession-Data
+1. Data can be any unprocessed fact, value, text, sound, picture or video that is not being interpreted and analyzed.
+2. Data is the most important part of all Data Mining, Machine Learning, Artificial Intelligence
+3. Without data, we can’t train any model and all modern research and automation will go vain
+4. Big Enterprises are spending loads of money just to gather as much certain data as possible  
+Example: Facebook acquires WhatsApp by paying a huge price of $19
+billion
 
 
 
