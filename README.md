@@ -73,3 +73,7 @@ Regression in supervised machine learning is a statistical method used for model
 10. CatBoost
 11. Neural Networks
 
+## unsupervise learning
+
+Unsupervised learning is a type of machine learning where the algorithm learns patterns, relationships, and structures from input data without explicit supervision or labeled responses.  
+The primary goal of unsupervised learning is to explore and identify hidden patterns, groupings, or structures within the data.  
