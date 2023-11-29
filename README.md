@@ -60,3 +60,16 @@ Regression in supervised machine learning is a statistical method used for model
 
 <ins>Optimization:</ins> Regression models can also be utilized in optimization problems, where the goal is to find the best possible outcome.  
 
+## List of Commonly Supervised Learning Algorithms  
+1. Linear Regression
+2. Logistic Regression
+3. k-Nearest Neighbors (kNN)
+4. Decision Trees
+5. Random Forest
+6. Support Vector Machines (SVM)
+7. Gradient Boosting Machines(GBM)
+8. LightGBM
+9. XGBoost
+10. CatBoost
+11. Neural Networks
+
