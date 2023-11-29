@@ -92,7 +92,7 @@ The primary goal of unsupervised learning is to explore and identify hidden patt
         -  Association Rule Mining is a rule-based machine learning.  
         -  method for discovering frequently occurring patterns, correlations, or associations between variables in large databases.  
            -  It is intended to identify strong rules discovered in databases  
-
+![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/037ef0c5-7a78-4b39-9b5b-145aef2b6322)
 
 
 
