@@ -34,3 +34,7 @@ Supervised Learning is also called Predictive Modeling. Supervised Learning is 2
 
 ![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/ad96289f-125c-485a-bb1c-11441c59e5cd)
 
+## classification:
+1. Binary Classification: Classifying instances into one of two classes/categories, for example, email spam filtering (spam or not).  
+1. Multiclass Classification: Classifying instances into one of three or more classes/categories, for example, color of an object, it may be red or green or blue.  
+1. Multi-Label Classification: Multiple labels/classes are to be predicted for each instance, for example, when predicting a given movie category, it may belong to horror, romance, adventure, action, or all simultaneously.  
