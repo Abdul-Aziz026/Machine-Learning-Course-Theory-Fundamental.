@@ -109,4 +109,13 @@ the system needs is for you to tell it who these people are (Supervised
 learning). Just one label per person, and it is able to name everyone in
 every photo, which is useful for searching photos.
 
+## Reinforcement Learning
+1. Reinforcement learning is a feedback-based learning method, in which a
+learning agent gets a reward for each right action and gets a penalty for each
+wrong action.
+2. The agent learns automatically with these feedbacks and improves its
+performance.
+
+
+
 
