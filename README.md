@@ -47,3 +47,18 @@ Supervised Learning is also called Predictive Modeling. Supervised Learning is 2
 5. Recognition of handwritten characters and numbers
 6. Fraud detection
 7. Disease prediction and detection etc.
+
+## Regression:
+Regression in supervised machine learning is a statistical method used for modeling the relationship between a dependent variable (target) and one or more independent variables (predictors). Its primary goal is to predict the value of the dependent variable based on the values of the independent variables.
+
+### When to use regression:
+Prediction: Regression is used when you want to predict a continuous output variable. For instance, predicting house prices based on features like size, location, and number of bedrooms.  
+
+Relationship Analysis: It helps in understanding the strength and direction of the relationship between variables. For instance, analyzing how changes in advertising expenditure impact sales.  
+
+Forecasting: Regression is valuable in forecasting future trends or outcomes based on historical data patterns.  
+
+Risk Assessment: In fields like finance and insurance, regression can be used to assess risks by predicting potential losses or gains based on various factors.  
+
+Optimization: Regression models can also be utilized in optimization problems, where the goal is to find the best possible outcome.  
+
