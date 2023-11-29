@@ -130,6 +130,14 @@ performance.
 Example: Facebook acquires WhatsApp by paying a huge price of $19
 billion
 
+### Information and Knowledge
+ Information: Processed, organized, or structured data to provide context
+and meaning.
+ Knowledge: Combination of inferred information, experiences, learning
+and insights. Knowledge is useful and actionable information that can
+lead to impact.
+
+![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/3f0da3e8-5792-466e-8f37-87fcc5a37721)
 
 
 
