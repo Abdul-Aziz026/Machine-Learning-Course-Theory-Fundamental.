@@ -94,5 +94,19 @@ The primary goal of unsupervised learning is to explore and identify hidden patt
            -  It is intended to identify strong rules discovered in databases  
 ![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/037ef0c5-7a78-4b39-9b5b-145aef2b6322)
 
+![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/6a5e77cb-f2df-40b8-9244-7778a731e72c)
+
+## Semisupervised learning
+1. Semisupervised learning can deal with partially labeled training data,
+2. usually a lot of unlabeled data and a little bit of labeled data.
+3. Most semisupervised learning algorithms are combinations of
+unsupervised and supervised algorithms.  
+Example: Some photo-hosting services, such as Google Photos. Once you
+upload all your family photos to the service, it automatically recognizes
+that the same person A shows up in photos 1, 5, and 11, while another
+person B shows up in photos 2, 5, and 7 (unsupervised learning). Now all
+the system needs is for you to tell it who these people are (Supervised
+learning). Just one label per person, and it is able to name everyone in
+every photo, which is useful for searching photos.
 
 
