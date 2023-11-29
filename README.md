@@ -88,9 +88,9 @@ The primary goal of unsupervised learning is to explore and identify hidden patt
         - Anomaly Detection: Identifying outliers or anomalies in datasets, such as detecting fraudulent activities in finance.  
         - Social Network Analysis  
         - Traffic Flow Analysis  
-3. <ins>Association Rule Mining</ins>:  
+3. <ins>Association Rule Mining</ins>:
         -  Association Rule Mining is a rule-based machine learning.  
-        -  method for discovering frequently occurring patterns, correlations, or associations between variables in large databases.
+        -  method for discovering frequently occurring patterns, correlations, or associations between variables in large databases.  
            -  It is intended to identify strong rules discovered in databases  
 
 
