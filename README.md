@@ -327,6 +327,16 @@ automatic feature selection during model training.Like: LASSO Algo.
 
 ![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/55644262-9d50-4533-b36f-a8b8b2952067)
 
+## Dicretization:
+Discretization is the process of converting a continuous attribute into an ordinal attribute.
+1. A potentially infinite number of values are mapped into a small number of categories.
+2. Discretization is commonly used in classification.
+3. Many classification algorithms work best if both the independent and dependent variables have only a few values.
+
+## Binarization:  
+1. Binarization maps a continuous or categorical attribute into one or more binary variables.
+2. Simplifying data for specific algorithms that work better with binary inputs.
+3. Creating categorical features based on certain conditions.
 
 
 
