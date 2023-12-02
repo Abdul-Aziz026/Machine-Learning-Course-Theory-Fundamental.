@@ -190,3 +190,15 @@ In the context of data analysis, "data noise" refers to irrelevant, random, or e
 2. It cannot be understood and interpreted correctly by machin
 3. It unnecessarily increases the amount of storage space required
 Noisy data can be caused by faulty data collection instruments, human or computer errors.
+
+### How to Handle Noisy Data
+1. Remove noise from data (called data smoothing) using binning method, regression, clustering.
+2. Collect more data, it’s the best way to cut the noise out but data is expensive.
+3. Use Principal Component Analysis (PCA) for dimensionality reduction.
+4. Use regularization and cross validation (CV) to prevent overfitting.
+
+### Outliers:
+Outliers are data objects with characteristics that are considerably different than most of the other data objects in the data set.
+![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/c84580e4-bf91-4ccb-84d8-452ad1847ca5)
+
+
