@@ -235,6 +235,35 @@ Reasons for missing values
 Data preprocessing is the cleaning and organizing of raw data before using it for analysis or machine learning. It involves fixing errors, handling missing information, converting data into a usable format.  
 
 ### Data Preprocessing Techniques:
+1. Data cleaning (fix noises, outliers, missing values, duplicates in data)
+2. Aggregation
+3. Sampling
+4. Dimensionality reduction
+5. Feature subset selection
+6. Feature creation
 
+### Aggregation:
+Combining two or more attributes (or objects) into a single attribute (or object).  
+
+#### Purpose
+◦ Data reduction  
+        - Reduce the number of attributes or objects
+◦ Change of scale  
+        - Cities aggregated into regions, states, countries, etc.
+◦ Less memory, less processing time
+
+#### Disadvantage: the potential loss of interesting details.
+
+## Sampling:
+Sampling refers to the process of selecting a subset of items, or data points from a larger population or dataset in order to gather insights.
+
+![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/b63910f8-0da4-4e24-bad6-9819c2cfa17f)
+
+##### Representative Sample:
+The key principle for effective sampling is the following:
+◦ Using a sample will work almost as well as using the entire data sets (or
+population), if the sample is representative
+◦ A sample is representative if it has approximately the same property (of
+interest) as the original set of data 
 
 
