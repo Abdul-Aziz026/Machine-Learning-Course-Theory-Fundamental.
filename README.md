@@ -325,3 +325,8 @@ features are given a lower weight.
            3. Some machine learning algorithms (e.g. Decision trees, SVM, GBM) perform
 automatic feature selection during model training.Like: LASSO Algo.
 
+![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/55644262-9d50-4533-b36f-a8b8b2952067)
+
+
+
+
