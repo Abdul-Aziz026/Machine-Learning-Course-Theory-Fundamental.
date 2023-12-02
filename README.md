@@ -199,6 +199,35 @@ Noisy data can be caused by faulty data collection instruments, human or compute
 
 ### Outliers:
 Outliers are data objects with characteristics that are considerably different than most of the other data objects in the data set.
+
 ![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/c84580e4-bf91-4ccb-84d8-452ad1847ca5)
+
+
+### How to Handle Outliers:
+1. Drop the outlier records.
+2. Assign a new value: If an outlier seems to be due to a mistake in your data, try imputing a new value.
+3. Try a transformation.
+4. Identification and analysis:  
+Visualizations like box plots, scatter plots, or histograms can help identify outliers visually.
+
+### Missing Values:
+Reasons for missing values
+◦ Information is not collected  
+(e.g., people decline to give their age and weight)
+◦ Attributes may not be applicable to all cases
+(e.g., annual income is not applicable to children)  
+
+
+#### Handling missing values
+◦ Eliminate Data Objects
+◦ Estimate Missing Values (Mean/ Mode/ Median /Prediction etc.)
+◦ Ignore the Missing Value During Analysis
+◦ Replace with all possible values (weighted by their probabilities)
+
+#### Dealing with duplicate data
+1. You should probably remove duplicate data.
+2. Duplicate data will essentially lead to bias your fitted model or do the model overfitting.
+
+
 
 
