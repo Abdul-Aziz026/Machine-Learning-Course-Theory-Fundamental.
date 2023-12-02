@@ -285,4 +285,5 @@ interest) as the original set of data
 
 ![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/846e02a3-3df3-4223-b755-37e7f4c2f8e2)
 
-
+### Progressive sampling:  
+Start with a small sample, and then increase the size until a sufficient sample has been obtained.
