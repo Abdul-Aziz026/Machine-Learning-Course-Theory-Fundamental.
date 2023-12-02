@@ -266,4 +266,5 @@ population), if the sample is representative.
 ◦ A sample is representative if it has approximately the same property (of
 interest) as the original set of data 
 
+![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/0d1dbc82-fc0f-48e3-ad08-381853ff3e5a)
 
