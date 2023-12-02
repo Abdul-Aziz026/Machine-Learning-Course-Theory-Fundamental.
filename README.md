@@ -143,4 +143,31 @@ lead to impact.
 
 
 
+## Lecture-5
+### Data quality:
+Data quality refers to how reliable, accurate, complete, and relevant data is for its intended purpose or use.  
+Components of data quality:
+1. Accuracy
+2. Completeness
+3. Consistency
+4. Conformity
+5. Timeliness
+6. Intigrity.
+### Accuracy:
+Data is considered accurate if it correctly represents the real-world values or facts it intends to describe without errors or inconsistencies.  
+For example, in a sales database, if a customer's purchase amount is recorded as $500, but in reality, it was $550, there is an inaccuracy of $50. This discrepancy between the recorded data and the actual value demonstrates a lack of accuracy in the dataset.  
 
+### Completeness:
+ Complete data contains all the necessary information required for its intended purpose.  
+ Data can be complete even if optional data is missing. As long as the data meets the expectations then the data is considered complete.  
+ For example, a customer’s first name and last name are mandatory but middle name is optional; so a record can be considered complete even if a middle name is not available.  
+
+ ### Consistency:
+ Consistent data is consistence across different sources or within a dataset. It should not have contradictions or duplications.  
+ Examples of some inconsistencies:  
+ 1. A business unit status is closed but there are sales for that business unit.
+ 2. Employee status is terminated but pay status is active.  
+
+### Conformity:
+Conformity means the data is following the set of standard data definitions  
+example: date of birth of customer is in the format “mm/dd/yyyy”.
