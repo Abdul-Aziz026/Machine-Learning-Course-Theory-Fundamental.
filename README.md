@@ -259,7 +259,7 @@ Sampling refers to the process of selecting a subset of items, or data points fr
 
 ![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/b63910f8-0da4-4e24-bad6-9819c2cfa17f)
 
-##### Representative Sample:
+#### Representative Sample:
 The key principle for effective sampling is the following:  
 ◦ Using a sample will work almost as well as using the entire data sets (or
 population), if the sample is representative.  
