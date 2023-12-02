@@ -345,12 +345,15 @@ Here are common techniques for encoding categorical attributes:
 1. Ordinal Encoding: Used for ordinal categorical variables where the categories have a specific order.  
     It assigns numerical values based on the predefined order of categories. For example,  
    "low," "medium," and "high" might be encoded as 1, 2, and 3 respectively.
+   
    ![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/ca5d477e-a2d0-4682-aff6-7d786596531f)
 
 2. One hot Encoding: Converts each categorical value into a binary vector where each category becomes a column with a 1 or 0 representing its presence or absence in a particular row.
+   
    ![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/6bf5038a-e365-431e-b893-64e5ae2cabed)
 
 3. Binary Encoding:  Similar to one-hot encoding but avoids creating too many new columns by converting categorical values into binary code and then splitting them into separate columns.
+   
    ![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/8a892e04-d08c-43ed-b77a-f37bc6474feb)
 
 
