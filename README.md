@@ -179,3 +179,14 @@ Timely data is up-to-date and relevant for the purpose it serves. Outdated infor
 Integrity means validity of data across the relationships.  
 For example, in a customer database, there should be a valid customer, address and relationship between them.  
 
+## Data Quality Problems 
+◦ Noise  
+◦ Outliers  
+◦ Missing values  
+◦ Duplicate or Redundant data  
+### Noise
+In the context of data analysis, "data noise" refers to irrelevant, random, or extraneous information within a dataset.  
+1. Noisy data (or corrupt data) are meaningless information
+2. It cannot be understood and interpreted correctly by machin
+3. It unnecessarily increases the amount of storage space required
+Noisy data can be caused by faulty data collection instruments, human or computer errors.
