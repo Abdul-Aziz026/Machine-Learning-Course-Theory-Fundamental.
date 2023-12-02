@@ -171,3 +171,11 @@ For example, in a sales database, if a customer's purchase amount is recorded as
 ### Conformity:
 Conformity means the data is following the set of standard data definitions  
 example: date of birth of customer is in the format “mm/dd/yyyy”.
+
+### Timeliness:
+Timely data is up-to-date and relevant for the purpose it serves. Outdated information may lose its value or relevance over time.  
+
+### Intigrity:
+Integrity means validity of data across the relationships.  
+For example, in a customer database, there should be a valid customer, address and relationship between them.  
+
