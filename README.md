@@ -287,3 +287,41 @@ interest) as the original set of data
 
 ### Progressive sampling:  
 Start with a small sample, and then increase the size until a sufficient sample has been obtained.
+
+## Dimensionality Reduction
+#### Purpose:
+◦ Avoid curse of dimensionality
+◦ May help to eliminate irrelevant features or reduce noise
+◦ Reduce amount of time and memory required by data mining algorithms
+◦ Allow data to be more easily visualized
+◦ Allow model to be more understandable
+#### Techniques:
+◦ Principle Component Analysis (PCA)
+◦ Singular Value Decomposition (SVD)
+◦ Others: supervised and non-linear techniques
+
+### Dimensionality Reduction vs Feature Subset Selection:
+#### Dimentionality reduction:
+1. Reduce features by creating fewer but representative ones.  
+2. Transforms original features into a smaller set.
+3. Keeping crucial information while reducing complexity.
+4. computationally Complex
+
+5. #### Feature Subset Selection:
+   1. Pick the most important features without changing them.
+   2. Selects the best features from the existing ones.
+   3. Choosing the most informative features.
+   4. Usually less demanding computationally.
+
+### Feature Selection:
+Feature selection is the process of choosing the most important features from a dataset to make machine learning models more accurate and efficient. deleting irrelevent feature.  
+Here are some techniques used for feature selection:  
+1. <ins>Filter Methods:</ins> Select features based on statistical measures or correlations with the target variable.
+2. <ins>Wrapper Methods:</ins> Evaluate different feature subsets using the model's performance to choose the best set.
+3. <ins>Embedded Selection:</ins>
+           - It uses a supervised machine learning model to judge the importance ofeach feature, and keeps only the most important ones.  
+           - More important features are assigned a higher weight, while less important
+features are given a lower weight.
+        - Some machine learning algorithms (e.g. Decision trees, SVM, GBM) perform
+automatic feature selection during model training.Like: LASSO Algo.
+
