@@ -268,3 +268,21 @@ interest) as the original set of data
 
 ![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/0d1dbc82-fc0f-48e3-ad08-381853ff3e5a)
 
+#### Types of Sampling Methods
+1. Simple Random Sampling
+2. Systematic Sampling
+3. Stratified Sampling
+4. Cluster Sampling
+5. Multistage sampling
+
+![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/0f450681-83b7-4f02-bbb0-f16b97090209)
+
+![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/d2c631b3-5e9d-45d1-bc1a-b1b733c40194)
+
+![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/cc0cd3d5-72a2-4935-8603-0bf500da278f)
+
+![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/f022d976-8387-4da7-b879-dfa39862329f)
+
+![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/846e02a3-3df3-4223-b755-37e7f4c2f8e2)
+
+
