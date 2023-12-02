@@ -234,6 +234,7 @@ Reasons for missing values
 #### definition:
 Data preprocessing is the cleaning and organizing of raw data before using it for analysis or machine learning. It involves fixing errors, handling missing information, converting data into a usable format.  
 
+### Data Preprocessing Techniques:
 
 
 
