@@ -379,7 +379,7 @@ An approach to analyze and investigate data sets to summarize their main charact
 2. It works for both categorical and continuous input and output variables.
 3. This technique splits the population or data set into two or more homogeneous sets based on most significant splitter in input variables.
 
-<ins> # Read Slide </ins>
+# <ins>Read Slide </ins>
 
 
 
