@@ -371,9 +371,13 @@ Data standardization is the process of rescaling one or more variables so that t
 An approach to analyze and investigate data sets to summarize their main characteristics.
 
 
+# Lecture 8-9
 
+## Decision Tree Classification:
 
-
+1. Decision tree is a type of supervised learning algorithm that is mostly used in classification problems.
+2. It works for both categorical and continuous input and output variables.
+3. This technique splits the population or data set into two or more homogeneous sets based on most significant splitter in input variables.
 
 
 
