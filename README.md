@@ -1,4 +1,4 @@
-# Machine-Learning-Course-Theory-Fundamental.
+![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/0a61894d-c0a5-42ef-9d2e-99b4ece2d030)# Machine-Learning-Course-Theory-Fundamental.
 ## Definition of Machine-Learning:
 Machine Learning is a branch of Artificial Intelligence and Computer Science and Engineering.
 Machine Learing is a field of study that enables the system to learn from experience by using data.
@@ -355,6 +355,29 @@ Here are common techniques for encoding categorical attributes:
 3. Binary Encoding:  Similar to one-hot encoding but avoids creating too many new columns by converting categorical values into binary code and then splitting them into separate columns.
    
    ![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/8a892e04-d08c-43ed-b77a-f37bc6474feb)
+
+
+## Normalization:
+Normalization is a data preprocessing technique used to scale numerical features within a specific range, typically between 0 and 1.  
+
+![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/a91a3b46-2b3b-4118-9dd2-d7dae011020f)
+
+## Standardization:
+Data standardization is the process of rescaling one or more variables so that they have a mean value of 0 and a standard deviation of 1
+
+![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/19bbe166-98d5-4b2c-ad8a-67268f9fd963)
+
+#### Exploratory Data Analysis (EDA):
+An approach to analyze and investigate data sets to summarize their main characteristics.
+
+
+
+
+
+
+
+
+
 
 
 
