@@ -321,7 +321,7 @@ Here are some techniques used for feature selection:
 3. <ins>Embedded Selection:</ins>  
            1. It uses a supervised machine learning model to judge the importance ofeach feature, and keeps only the most important ones.  
            2. More important features are assigned a higher weight, while less important
-features are given a lower weight.
+features are given a lower weight.  
            3. Some machine learning algorithms (e.g. Decision trees, SVM, GBM) perform
 automatic feature selection during model training.Like: LASSO Algo.
 
