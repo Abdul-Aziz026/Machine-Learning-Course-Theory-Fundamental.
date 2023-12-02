@@ -318,10 +318,10 @@ Feature selection is the process of choosing the most important features from a 
 Here are some techniques used for feature selection:  
 1. <ins>Filter Methods:</ins> Select features based on statistical measures or correlations with the target variable.
 2. <ins>Wrapper Methods:</ins> Evaluate different feature subsets using the model's performance to choose the best set.
-3. <ins>Embedded Selection:</ins>
-           - It uses a supervised machine learning model to judge the importance ofeach feature, and keeps only the most important ones.  
-           - More important features are assigned a higher weight, while less important
+3. <ins>Embedded Selection:</ins>  
+           1. It uses a supervised machine learning model to judge the importance ofeach feature, and keeps only the most important ones.  
+           2. More important features are assigned a higher weight, while less important
 features are given a lower weight.
-        - Some machine learning algorithms (e.g. Decision trees, SVM, GBM) perform
+           3. Some machine learning algorithms (e.g. Decision trees, SVM, GBM) perform
 automatic feature selection during model training.Like: LASSO Algo.
 
