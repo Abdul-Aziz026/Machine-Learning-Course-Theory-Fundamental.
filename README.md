@@ -379,8 +379,7 @@ An approach to analyze and investigate data sets to summarize their main charact
 2. It works for both categorical and continuous input and output variables.
 3. This technique splits the population or data set into two or more homogeneous sets based on most significant splitter in input variables.
 
-# <ins>Read Slide </ins>
-[Click me to go to Google!](https://www.google.com)
+# [Read Slide](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./blob/main/ML-Lecture-8-9-Classification.pdf)
 
 
 
