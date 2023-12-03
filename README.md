@@ -214,11 +214,9 @@ Outliers are data objects with characteristics that are considerably different t
 Visualizations like box plots, scatter plots, or histograms can help identify outliers visually.
 
 ### Missing Values:
-Reasons for missing values
-◦ Information is not collected  
-(e.g., people decline to give their age and weight)
-◦ Attributes may not be applicable to all cases
-(e.g., annual income is not applicable to children)  
+Reasons for missing values  
+◦ Information is not collected(e.g., people decline to give their age and weight).  
+◦ Attributes may not be applicable to all cases(e.g., annual income is not applicable to children).  
 
 
 #### Handling missing values
