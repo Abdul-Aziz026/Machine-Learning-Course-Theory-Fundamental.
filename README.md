@@ -1,4 +1,4 @@
-![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/0a61894d-c0a5-42ef-9d2e-99b4ece2d030)# Machine-Learning-Course-Theory-Fundamental.
+# Machine-Learning-Course-Theory-Fundamental.
 ## Definition of Machine-Learning:
 Machine Learning is a branch of Artificial Intelligence and Computer Science and Engineering.
 Machine Learing is a field of study that enables the system to learn from experience by using data.
