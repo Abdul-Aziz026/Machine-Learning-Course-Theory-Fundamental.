@@ -48,6 +48,9 @@ Supervised Learning is also called Predictive Modeling. Supervised Learning is 2
 6. Fraud detection
 7. Disease prediction and detection etc.
 
+#### Fraud Detection:  
+Fraud detection involves the use of techniques and technologies to identify and prevent illegal activities within systems or processes.
+
 ## Regression:
 Regression in supervised machine learning is a statistical method used for modeling the relationship between a dependent variable (target) and one or more independent variables (predictors). Its primary goal is to predict the value of the dependent variable based on the values of the independent variables.
 
