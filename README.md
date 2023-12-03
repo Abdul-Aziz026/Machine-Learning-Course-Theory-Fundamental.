@@ -215,15 +215,15 @@ Visualizations like box plots, scatter plots, or histograms can help identify ou
 
 ### Missing Values:
 Reasons for missing values  
-◦ Information is not collected(e.g., people decline to give their age and weight).  
-◦ Attributes may not be applicable to all cases(e.g., annual income is not applicable to children).  
+1. Information is not collected(e.g., people decline to give their age and weight).
+2. Attributes may not be applicable to all cases(e.g., annual income is not applicable to children).  
 
 
-#### Handling missing values
-◦ Eliminate Data Objects
-◦ Estimate Missing Values (Mean/ Mode/ Median /Prediction etc.)
-◦ Ignore the Missing Value During Analysis
-◦ Replace with all possible values (weighted by their probabilities)
+#### Handling missing values  
+◦ Eliminate Data Objects  
+◦ Estimate Missing Values (Mean/ Mode/ Median /Prediction etc.)  
+◦ Ignore the Missing Value During Analysis  
+◦ Replace with all possible values (weighted by their probabilities)  
 
 #### Dealing with duplicate data
 1. You should probably remove duplicate data.
