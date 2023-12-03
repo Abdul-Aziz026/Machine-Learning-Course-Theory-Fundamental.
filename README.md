@@ -144,7 +144,7 @@ lead to impact.
 
 ![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/4fb8c8f1-30d5-4a2d-a0eb-3f9453b0e665)
 
-
+### <ins>[Lecture-4 Slide Click Hera for read]</ins>(https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./blob/main/ML-Lecture-4-data.pdf)
 
 ## Lecture-5
 ### Data quality:
