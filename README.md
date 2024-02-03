@@ -31,8 +31,8 @@ These success stories demonstrate the real-world applications and potential of m
 
 ## Lecture 2-3
 Supervised Learning is also called Predictive Modeling. Supervised Learning is 2 types:
-1. Regression: Real/Continious value predition Model. example: House price prediction.
-1. Classification: Predict the class of the model. example: apple and banana class prediction, Language detection etc.
+1. **Regression:** Real/Continious value predition Model. example: House price prediction.
+1. **Classification:** Predict the class of the model. example: apple and banana class prediction, Language detection etc.
 
 ![image](https://github.com/Azizur-Rahman-CSE/Machine-Learning-Course-Theory-Fundamental./assets/57495952/ad96289f-125c-485a-bb1c-11441c59e5cd)
 
