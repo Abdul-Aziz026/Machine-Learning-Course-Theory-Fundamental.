@@ -5,7 +5,7 @@ Machine Learing is a field of study that enables the system to learn from experi
 
 
 ## Goals of Machine Learning:
-i) enable machine that can learn from data, make prediction and solve tasking without explicit programming.
+i) enable machine that can learn from data, make prediction and solve tasking without explicit programming.   
 ii)enhancing automation and decision making across various domains through pattern recognition and data-driven model.
 
 ## Why Machine learning getting so mush attention recently:
